@@ -20,4 +20,4 @@
 ![image](https://user-images.githubusercontent.com/118324310/205444847-6f436faf-b974-41fc-916f-755ed90de463.png)
 
 
-*Watch out fopr the next page for more cars and video links*
+*Watch out for the next page for more cars and video links*
