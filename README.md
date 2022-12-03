@@ -1,5 +1,12 @@
 # keon14.github.io
 # CAR ENTHUSIAST
+**Do you like cars?**
+**Welcome to Keon's website where you can indulge yourself to your dream cars.  Old model cars will redefine how you like your cars.**
+**Classic cars which are still in today.**
+**While you appreciate the classic, let us not forget the new and futuristic ones that define style and speed. 
+
+# OLD CARS
+
 ![car](https://user-images.githubusercontent.com/118324310/203702968-73b75a09-6df6-4d61-9999-039ef7681595.png)
 
 **The Nürburgring is the ultimate test track for developing new cars, whether they are out-and-out supercars or more modest hot hatches.**
